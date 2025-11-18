@@ -1,1 +1,1 @@
-# Lgal Document NLP project
+# Legal Document NLP project
